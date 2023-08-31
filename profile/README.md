@@ -1,5 +1,5 @@
 # Gruppi Technologies
----
+
 **Gruppi Technologies** é uma empresa de software que desenvolve soluções inovadoras.
 
 Nossa missão é ajudar nossos clientes a alcançar seus objetivos de negócios por meio de tecnologia. Fazemos isso desenvolvendo soluções personalizadas que se adaptam às necessidades específicas de cada cliente.
